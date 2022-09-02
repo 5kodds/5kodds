@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5kodds
 - 👀 I’m interested in development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web3, web5
+- 💞️ I’m looking to collaborate on web3, web5, data science and machine learning
 - 📫 How to reach me fivekodds@outlook.com
 - 
 
