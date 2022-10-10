@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5kodds
+- 👋 Hi, I’m 5kodds
 - 👀 I’m interested in sofwtare and data engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web3, data engineering and machine learning
