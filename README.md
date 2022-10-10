@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @5kodds
-- 👀 I’m interested in development
+- 👀 I’m interested in sofwtare and data engineering
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web3, web5, data science and machine learning
+- 💞️ I’m looking to collaborate on web3, data engineering and machine learning
 - 📫 How to reach me fivekodds@outlook.com
-- 
+- Ask me about Python
 
 <!---
 5kodds/5kodds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
