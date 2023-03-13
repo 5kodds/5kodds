@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 5kodds
-- 👀 I’m interested in AI programming with python
+- 👀 I’m interested in web3 and AI programming with python
 - 🌱 I’m currently learning python, AI & ML
 - 💞️ I’m looking to collaborate on AI & ML projects
 - 📫 How to reach me fivekodds@outlook.com
