@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 5kodds
-- 👀 I’m interested in web3 and AI programming with python
-- 🌱 I’m currently learning python, AI & ML
-- 💞️ I’m looking to collaborate on AI & ML projects
+- 👀 I’m interested in Machine Learning, WEB3, Web apps
+- 🌱 I’m currently learning how to build Web Apps, AI & ML tools
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me fivekodds@outlook.com
 - Ask me about Python, AI & ML
 
